@@ -1,0 +1,6 @@
+pygame
+numpy
+scikit-learn
+xgboost
+joblib
+matplotlib
